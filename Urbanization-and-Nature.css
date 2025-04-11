@@ -339,4 +339,12 @@
   .u-section-4 .u-layout-cell-2 {
     min-height: 290px;
   }
+}.u-section-5 .u-sheet-1 {
+  min-height: 92px;
+}
+
+.u-section-5 .u-btn-1 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 25px 0 25px auto;
 }
